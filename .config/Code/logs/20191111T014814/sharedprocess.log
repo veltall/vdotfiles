@@ -1,0 +1,8 @@
+[2019-11-11 01:48:17.818] [sharedprocess] [info] main {"machineId":"85c4734a2beeffd83b66f726aa21bb39e0ce8f5dc7c3e5cd088fa25f190445e2","windowId":2}
+[2019-11-11 01:48:57.824] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-11-11 02:14:09.063] [sharedprocess] [info] Installing extension: naumovs.color-highlight
+[2019-11-11 02:14:09.368] [sharedprocess] [info] Downloaded extension: naumovs.color-highlight /tmp/a0972f34-80ca-443b-aada-208b4e863251
+[2019-11-11 02:14:09.638] [sharedprocess] [info] Extracted extension to /home/velt/.vscode/extensions/.naumovs.color-highlight-2.3.0: naumovs.color-highlight
+[2019-11-11 02:14:09.639] [sharedprocess] [info] Renamed to /home/velt/.vscode/extensions/naumovs.color-highlight-2.3.0
+[2019-11-11 02:14:09.641] [sharedprocess] [info] Installation completed. naumovs.color-highlight
+[2019-11-11 02:14:09.644] [sharedprocess] [info] Extensions installed successfully: naumovs.color-highlight

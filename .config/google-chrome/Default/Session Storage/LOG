@@ -1,0 +1,6 @@
+2019/11/10-20:53:23.967 952 Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/11/10-20:53:23.968 952 Recovering log #4
+2019/11/10-20:53:23.969 952 Reusing old log Session Storage/000004.log 
+2019/11/10-20:57:00.942 ec1 Level-0 table #8: started
+2019/11/10-20:57:00.944 ec1 Level-0 table #8: 18885 bytes OK
+2019/11/10-20:57:00.945 ec1 Delete type=0 #4

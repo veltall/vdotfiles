@@ -1,0 +1,26 @@
+2019/11/10-20:53:24.624 903 Reusing MANIFEST /home/velt/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2019/11/10-20:53:24.624 903 Recovering log #11
+2019/11/10-20:53:24.636 903 Reusing old log /home/velt/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000011.log 
+2019/11/10-20:56:26.188 f04 Level-0 table #15: started
+2019/11/10-20:56:26.207 f04 Level-0 table #15: 2505438 bytes OK
+2019/11/10-20:56:26.208 f04 Delete type=0 #11
+2019/11/10-20:58:26.253 f04 Level-0 table #17: started
+2019/11/10-20:58:26.309 f04 Level-0 table #17: 1504070 bytes OK
+2019/11/10-20:58:26.312 f04 Delete type=0 #14
+2019/11/10-20:58:26.312 f04 Compacting 4@0 + 1@1 files
+2019/11/10-20:58:26.341 f04 Generated table #18@0: 10 keys, 2139574 bytes
+2019/11/10-20:58:26.364 f04 Generated table #19@0: 7 keys, 2185990 bytes
+2019/11/10-20:58:26.372 f04 Generated table #20@0: 10 keys, 357031 bytes
+2019/11/10-20:58:26.372 f04 Compacted 4@0 + 1@1 files => 4682595 bytes
+2019/11/10-20:58:26.373 f04 compacted to: files[ 0 3 1 0 0 0 0 ]
+2019/11/10-20:58:26.373 f04 Delete type=2 #15
+2019/11/10-20:58:26.373 f04 Delete type=2 #7
+2019/11/10-20:58:26.373 f04 Delete type=2 #9
+2019/11/10-20:58:26.373 f04 Delete type=2 #17
+2019/11/10-20:58:26.373 f04 Delete type=2 #12
+2019/11/10-21:10:30.942 f04 Level-0 table #22: started
+2019/11/10-21:10:30.959 f04 Level-0 table #22: 1926142 bytes OK
+2019/11/10-21:10:30.960 f04 Delete type=0 #16
+2019/11/10-21:19:31.335 f04 Level-0 table #24: started
+2019/11/10-21:19:31.360 f04 Level-0 table #24: 2617437 bytes OK
+2019/11/10-21:19:31.362 f04 Delete type=0 #21

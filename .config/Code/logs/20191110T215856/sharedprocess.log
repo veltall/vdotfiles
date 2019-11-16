@@ -1,0 +1,14 @@
+[2019-11-10 21:58:59.949] [sharedprocess] [info] main {"machineId":"85c4734a2beeffd83b66f726aa21bb39e0ce8f5dc7c3e5cd088fa25f190445e2","windowId":2}
+[2019-11-10 21:59:01.652] [sharedprocess] [info] Installing extension: dart-code.dart-code
+[2019-11-10 21:59:01.652] [sharedprocess] [info] Installing extension: dart-code.flutter
+[2019-11-10 21:59:02.214] [sharedprocess] [info] Downloaded extension: dart-code.flutter /tmp/5626d01a-9868-4212-9398-89d4a9b33d2d
+[2019-11-10 21:59:02.246] [sharedprocess] [info] Extracted extension to /home/velt/.vscode/extensions/.dart-code.flutter-3.6.0: dart-code.flutter
+[2019-11-10 21:59:02.246] [sharedprocess] [info] Renamed to /home/velt/.vscode/extensions/dart-code.flutter-3.6.0
+[2019-11-10 21:59:02.247] [sharedprocess] [info] Installation completed. dart-code.flutter
+[2019-11-10 21:59:02.250] [sharedprocess] [info] Downloaded extension: dart-code.dart-code /tmp/68895c71-e3a3-4230-bff5-d1a434db08c9
+[2019-11-10 21:59:02.295] [sharedprocess] [info] Extensions installed successfully: dart-code.flutter
+[2019-11-10 21:59:02.454] [sharedprocess] [info] Extracted extension to /home/velt/.vscode/extensions/.dart-code.dart-code-3.6.0: dart-code.dart-code
+[2019-11-10 21:59:02.454] [sharedprocess] [info] Renamed to /home/velt/.vscode/extensions/dart-code.dart-code-3.6.0
+[2019-11-10 21:59:02.457] [sharedprocess] [info] Installation completed. dart-code.dart-code
+[2019-11-10 21:59:02.462] [sharedprocess] [info] Extensions installed successfully: dart-code.dart-code
+[2019-11-10 21:59:39.927] [sharedprocess] [info] Starting to clean up unused language packs.

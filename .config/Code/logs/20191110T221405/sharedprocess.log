@@ -1,0 +1,4 @@
+[2019-11-10 22:14:08.824] [sharedprocess] [info] main {"machineId":"85c4734a2beeffd83b66f726aa21bb39e0ce8f5dc7c3e5cd088fa25f190445e2","windowId":2}
+[2019-11-10 22:14:08.905] [sharedprocess] [info] Deleted from disk dart-code.dart-code /home/velt/.vscode/extensions/dart-code.dart-code-3.5.1
+[2019-11-10 22:14:08.906] [sharedprocess] [info] Deleted from disk dart-code.flutter /home/velt/.vscode/extensions/dart-code.flutter-3.5.1
+[2019-11-10 22:14:48.810] [sharedprocess] [info] Starting to clean up unused language packs.
